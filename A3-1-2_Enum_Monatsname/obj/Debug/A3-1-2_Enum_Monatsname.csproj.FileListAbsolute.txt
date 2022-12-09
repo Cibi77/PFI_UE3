@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\bin\Debug\A3-1-2_Enum_Monatsname.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\bin\Debug\A3-1-2_Enum_Monatsname.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\bin\Debug\A3-1-2_Enum_Monatsname.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\obj\Debug\A3-1-2_Enum_Monatsname.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\obj\Debug\A3-1-2_Enum_Monatsname.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\obj\Debug\A3_1_2_Enum_Monatsname.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\obj\Debug\A3_1_2_Enum_Monatsname.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\obj\Debug\A3-1-2_Enum_Monatsname.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\obj\Debug\A3-1-2_Enum_Monatsname.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\obj\Debug\A3-1-2_Enum_Monatsname.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-2_Enum_Monatsname\obj\Debug\A3-1-2_Enum_Monatsname.pdb

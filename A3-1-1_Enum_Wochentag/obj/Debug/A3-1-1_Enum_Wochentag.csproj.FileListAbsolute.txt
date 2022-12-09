@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3_1_1_Enum_Wochentag.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3_1_1_Enum_Wochentag.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\bin\Debug\A3-1-1_Enum_Wochentag.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\bin\Debug\A3-1-1_Enum_Wochentag.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\bin\Debug\A3-1-1_Enum_Wochentag.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.pdb
