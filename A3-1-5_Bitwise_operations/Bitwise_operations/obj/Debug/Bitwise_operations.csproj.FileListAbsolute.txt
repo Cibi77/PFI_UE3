@@ -1,0 +1,9 @@
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.exe.config
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.csprojResolveAssemblyReference.cache
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.Form1.resources
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.Properties.Resources.resources
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.csproj.GenerateResource.Cache
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.exe
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.pdb
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.exe
+c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.pdb
