@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\obj\Debug\A3-1-1_Wiederholung.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\obj\Debug\A3-1-1_Wiederholung.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\obj\Debug\A3_1_1_Wiederholung.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\obj\Debug\A3_1_1_Wiederholung.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\obj\Debug\A3-1-1_Wiederholung.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\obj\Debug\A3-1-1_Wiederholung.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\bin\Debug\A3-1-1_Wiederholung.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\bin\Debug\A3-1-1_Wiederholung.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\bin\Debug\A3-1-1_Wiederholung.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\obj\Debug\A3-1-1_Wiederholung.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Wiederholung\obj\Debug\A3-1-1_Wiederholung.pdb
