@@ -9,3 +9,6 @@ C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Woc
 C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\bin\Debug\A3-1-1_Enum_Wochentag.pdb
 C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.exe
 C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.pdb
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-1_Enum_Wochentag\bin\Debug\A3-1-1_Enum_Wochentag.exe.config
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.exe
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-1_Enum_Wochentag\obj\Debug\A3-1-1_Enum_Wochentag.pdb
