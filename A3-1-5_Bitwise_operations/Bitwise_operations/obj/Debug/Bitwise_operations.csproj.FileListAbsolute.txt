@@ -7,3 +7,12 @@ c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_op
 c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.pdb
 c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.exe
 c:\users\vin\documents\visual studio 2015\Projects\Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.pdb
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.exe.config
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.exe
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.pdb
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.exe
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.pdb
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.csprojResolveAssemblyReference.cache
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.Form1.resources
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.Properties.Resources.resources
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-5_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.csproj.GenerateResource.Cache
