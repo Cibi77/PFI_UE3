@@ -1,0 +1,8 @@
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\bin\Debug\A3-1-6_Bitwise_Rechner.exe.config
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Bitwise_Rechner.exe
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Bitwise_Rechner.pdb
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\obj\Debug\A3_1_6_Bitwise_Rechner.Form1.resources
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\obj\Debug\A3_1_6_Bitwise_Rechner.Properties.Resources.resources
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Wiederholung_Schule.csproj.GenerateResource.Cache
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\bin\Debug\A3-1-6_Bitwise_Rechner.exe
+C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\bin\Debug\A3-1-6_Bitwise_Rechner.pdb
