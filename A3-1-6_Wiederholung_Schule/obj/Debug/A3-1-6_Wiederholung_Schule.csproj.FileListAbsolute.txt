@@ -6,3 +6,14 @@ C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\obj\Debug\A3_1_6
 C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Wiederholung_Schule.csproj.GenerateResource.Cache
 C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\bin\Debug\A3-1-6_Bitwise_Rechner.exe
 C:\Users\vin\Documents\Repos\PFI_UE3\A3-1-6_Wiederholung_Schule\bin\Debug\A3-1-6_Bitwise_Rechner.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\bin\Debug\A3-1-6_Bitwise_Rechner.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\bin\Debug\A3-1-6_Bitwise_Rechner.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\bin\Debug\A3-1-6_Bitwise_Rechner.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Wiederholung_Schule.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Wiederholung_Schule.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\obj\Debug\A3_1_6_Bitwise_Rechner.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\obj\Debug\A3_1_6_Bitwise_Rechner.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Wiederholung_Schule.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Wiederholung_Schule.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Bitwise_Rechner.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Wiederholung_Schule\obj\Debug\A3-1-6_Bitwise_Rechner.pdb

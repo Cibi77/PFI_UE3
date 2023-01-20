@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\bin\Debug\Bitwise_operations.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\obj\Debug\A3-1-6_Bitwise_operations_umstaendlich.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\obj\Debug\A3-1-6_Bitwise_operations_umstaendlich.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\obj\Debug\A3-1-6_Bitwise_operations_umstaendlich.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\obj\Debug\A3-1-6_Bitwise_operations_umstaendlich.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_3\A3-1-6_Bitwise_operations\Bitwise_operations\obj\Debug\Bitwise_operations.pdb
